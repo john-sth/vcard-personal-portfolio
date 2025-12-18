@@ -1881,3 +1881,15 @@ textarea.form-input::-webkit-resizer { display: none; }
   .timeline-text { max-width: 700px; }
 
 }
+
+.ul-list li {
+  color: var(--light-gray);
+  list-style-type: disc;
+  font-weight: var(--fw-300);
+  line-height: 1.6;
+  margin-bottom: "30px";
+}
+
+.p-title {
+    color: var(--white-2);
+}
