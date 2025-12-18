@@ -1883,7 +1883,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 }
 
 .ul-list li {
-  color: var(--light-gray);
+  color: var(--white-2);
   list-style-type: disc;
   font-weight: var(--fw-300);
   line-height: 1.6;
